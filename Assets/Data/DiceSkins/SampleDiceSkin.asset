@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae055d0a82049ad9cc6925e7c5ab78b, type: 3}
+  m_Name: SampleDiceSkin
+  m_EditorClassIdentifier: 
+  d20: {fileID: 2100000, guid: 4b06e10fb2160ac42a711803e5d74b4b, type: 2}
+  d12: {fileID: 2100000, guid: 174456e265e35fe469a9f09b19cfe8ca, type: 2}
+  d10: {fileID: 2100000, guid: e4432a86e2fde91418f0b523456e8e9e, type: 2}
+  d8: {fileID: 2100000, guid: 086c3c0501738fb49a9cb96ebdffcb68, type: 2}
+  d6: {fileID: 2100000, guid: 44babce5d18406940b62a59e0feeba41, type: 2}
+  d4: {fileID: 2100000, guid: 4b06e10fb2160ac42a711803e5d74b4b, type: 2}
